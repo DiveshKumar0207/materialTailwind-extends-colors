@@ -57,6 +57,7 @@
     },
 
   "black": "#000000",
+  "white": "#ffffff",
 
     "o-slate": {
       "50": "#f8fafc",
