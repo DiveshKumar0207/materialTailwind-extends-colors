@@ -28,28 +28,61 @@ Feel free to use this color palette in your projects. Each color has different s
 
 The color palette includes the following categories:
 
-- Slate
-- Gray
-- Zinc
-- Neutral
-- Stone
-- Red
-- Orange
-- Amber
-- Yellow
-- Lime
-- Green
-- Emerald
-- Teal
-- Cyan
-- Sky
-- Blue
-- Indigo
-- Violet
-- Purple
-- Fuchsia
-- Pink
-- Rose
+- background:
+   - dark
+   - light
+
+- primary:
+   - light:
+      - default
+      - variant
+   - dark:
+      - default
+      - variant
+
+- secondary:
+   - light:
+      - default
+      - variant
+   - dark:
+      - default
+        
+- text:
+   - high
+   - medium
+   - disabled
+
+- dark-variant:
+   - Dark1
+   - Dark2
+   - Textarea
+   - Textarea2
+     
+- overlayDarkColors:
+   dp00 to dp24 with varying opacity
+
+  
+- error:
+   - light
+   - dark
+     
+- black
+- white
+
+
+- o-slate
+- o-gray
+- o-zinc
+- o-neutral
+- o-stone
+- o-red
+- o-orange
+- o-amber
+- o-yellow
+- o-lime
+- o-green
+
+etc.
 
 Each category contains shades ranging from 50 to 950, providing a wide range of options for your design needs.
 
