@@ -1,4 +1,63 @@
 {
+    "background": {
+      "dark": "#121212",
+      "light": "#ffffff"
+    },
+
+    "primary": {
+      "light": {
+        "default": "#6200EE",
+        "variant": "#3700B3"
+      },
+      "dark": {
+        "default": "#BB86FC",
+        "variant": "#3700B3"
+      }
+    },
+
+    "secondary": {
+      "light": {
+        "default": "#03DAC6",
+        "variant": "#018786"
+      },
+      "dark": {
+        "default": "#03DAC6"
+      }
+    },
+
+    "text": {
+      "high": "rgba(255, 255, 255, 0.87)",
+      "medium": "rgba(255, 255, 255, 0.6)",
+      "disabled": "rgba(255, 255, 255, 0.38)"
+    },
+
+    "dark-variant": {
+      "dark1": "#232B32",
+      "dark2": "#152028",
+      "textarea": "#1f1A24",
+      "textarea2": "#1F1B24"
+    },
+
+    "overlayDarkColors": {
+      "dp00": "rgba(255, 255, 255, 0)",
+      "dp01": "rgba(255, 255, 255, 0.05)",
+      "dp02": "rgba(255, 255, 255, 0.07)",
+      "dp03": "rgba(255, 255, 255, 0.08)",
+      "dp04": "rgba(255, 255, 255, 0.09)",
+      "dp06": "rgba(255, 255, 255, 0.11)",
+      "dp08": "rgba(255, 255, 255, 0.12)",
+      "dp12": "rgba(255, 255, 255, 0.14)",
+      "dp16": "rgba(255, 255, 255, 0.15)",
+      "dp24": "rgba(255, 255, 255, 0.16)"
+    },
+
+    "error": {
+      "light": "B00020",
+      "dark": "#cf6679"
+    },
+
+  "black": "#000000",
+
     "o-slate": {
       "50": "#f8fafc",
       "100": "#f1f5f9",
